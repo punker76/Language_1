@@ -2,8 +2,8 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:sys="clr-namespace:System;assembly=mscorlib">
     <!--MainWindow-->
-    <sys:String x:Key="HamburgerMenu_MenuItem_1">Page5</sys:String>
-    <sys:String x:Key="HamburgerMenu_MenuItem_2">Page6</sys:String>
-    <sys:String x:Key="HamburgerMenu_MenuItem_3">Page7</sys:String>
+    <sys:String x:Key="HamburgerMenu_MenuItem_1" x:Shared="False">Page5</sys:String>
+    <sys:String x:Key="HamburgerMenu_MenuItem_2" x:Shared="False">Page6</sys:String>
+    <sys:String x:Key="HamburgerMenu_MenuItem_3" x:Shared="False">Page7</sys:String>
 
 </ResourceDictionary>
